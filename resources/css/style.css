@@ -27,3 +27,59 @@ header a {
     text-align: center;
     margin: 20px;
 }
+
+.banner {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.guide {
+    text-align: center;
+
+}
+
+.guide h1 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    margin: 30px;
+}
+
+.guide p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+    margin: 20px;
+}
+
+.coming_soon {
+    text-align: center;
+    margin: 20px;
+}
+
+.coming_soon h1 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    margin: 30px;
+}
+
+.coming_soon a {
+    font-family: Verdana;
+    color: aquamarine;
+    text-align: center;
+    margin: 20px;
+}
+
+footer {
+    text-align: right;
+}
+
+footer h3 {
+    font-family: Verdana;
+    color: gray;
+    margin: 20px 10px;
+}
